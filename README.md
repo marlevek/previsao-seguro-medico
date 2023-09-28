@@ -8,7 +8,7 @@ Previsão de Seguros usando:
 
 -> Regressão Ridge e Lasso
 
--> Redes Neurais Artificiais
+-> XGBoost
 
 Vamos criar modelos com esses algoritmos, vamos treinar, testar, prever e avaliar para ao final escolher o de melhor desempenho.
 
