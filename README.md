@@ -1,4 +1,7 @@
 # previsao-seguro-medico
+
+Conjunto de dados: https://www.kaggle.com/datasets/mirichoi0218/insurance/data 
+
 Previsão de Seguros usando:
 
 -> Regressão Linear Múltipla
